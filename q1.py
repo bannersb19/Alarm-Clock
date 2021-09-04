@@ -1,0 +1,6 @@
+wt=input('Enter the weight in kg ')
+print(type(wt))
+wt=2.204*(float(wt))
+print('Weight in pounds ')
+print(wt) 
+print(type(wt))
